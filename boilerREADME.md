@@ -22,11 +22,13 @@
 
  ### Screenshot
 
+![screenshot](#)
+
 ### Links
 
-- Scrim: [Scrim](https://scrimba.com/scrim/co66f4672bc42a373fbd1968f)
-- Github: [Github](https://github.com/casserole27/counter-app)
-- Live Site: [Live Site](https://www.clewisdev.com/counter-app/)
+[Scrim](#)s
+[Github](#)
+[Live Site](#)
 
 ## My process
 
