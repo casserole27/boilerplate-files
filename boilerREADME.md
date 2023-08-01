@@ -18,17 +18,20 @@
 
 
 ### The challenge
-
+-[Figma file](#)
 
  ### Screenshot
+
+<h2>Pages</h2>
+<hr>
 
 ![screenshot](#)
 
 ### Links
 
-[Scrim](#)s
-[Github](#)
-[Live Site](#)
+- [Scrim](#)
+- [Github](#)
+- [Live Site](#)
 
 ## My process
 
@@ -37,19 +40,21 @@
 - Set up basic CSS file
 - Set up basic JavaScript file
 - Consult Figma design files
-- Project work
+- Project work: Github issues and version control
 - Publish live URL
 - Check markup and accessibility
 (https://validator.w3.org/)
 (https://wave.webaim.org/)
-- README file
+- README file documentation
 
 ### Built with
 
+- semantic HTML5
 - CSS custom properties
 - Responsive Web Design
 
 ### What I learned
+
 
 ### Continued development
 
